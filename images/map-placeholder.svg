@@ -1,0 +1,8 @@
+<svg width="700" height="420" viewBox="0 0 700 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="420" rx="20" fill="#121B36"/>
+  <path d="M80 90H620M80 170H620M80 250H620M80 330H620" stroke="#334571" stroke-width="3"/>
+  <path d="M140 60V360M260 60V360M380 60V360M500 60V360" stroke="#334571" stroke-width="3"/>
+  <circle cx="360" cy="210" r="56" fill="#4F7CFF" fill-opacity="0.9"/>
+  <circle cx="360" cy="210" r="22" fill="#E9EEFF"/>
+  <text x="350" y="395" fill="#B9C2E5" font-size="20" font-family="Arial" text-anchor="middle">Google Maps Placeholder</text>
+</svg>
